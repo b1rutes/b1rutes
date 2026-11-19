@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Engineer · Kigali 🇷🇼</h3>
 
 <p align="center">
-I'm learning to build the systems that move, clean and serve data: pipelines, warehouses and reliable data models. I'm learning in public and documenting every step.
+I'm learning to build the systems that move, clean and serve data: pipelines, warehouses and reliable data models. Learning and documenting .
 </p>
 
 ---
