@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm William 👋</h1>
-<h3 align="center">Aspiring Data Engineer · CS Student · Kigali 🇷🇼</h3>
+<h3 align="center">Aspiring Data Engineer · Kigali 🇷🇼</h3>
 
 <p align="center">
 I'm learning to build the systems that move, clean and serve data: pipelines, warehouses and reliable data models. I'm learning in public and documenting every step.
